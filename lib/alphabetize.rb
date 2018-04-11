@@ -2,7 +2,7 @@ require 'pry'
 def alphabetize(arr)
   esp_alph = " abcĉdefgĝhĥijĵklmnoprsŝtuŭvz"
   ascii = "@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\"
-  buinding.pry
+  binding.pry
   
  arr.sort_by
  arr
