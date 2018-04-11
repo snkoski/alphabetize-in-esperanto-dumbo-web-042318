@@ -5,4 +5,4 @@ end
 
 expressions = ["mi amas vin", "bonan matenon", "pacon", "ĉu vi parolas esperanton"]
 
-alphabetize(expressions)
+puts alphabetize(expressions)
